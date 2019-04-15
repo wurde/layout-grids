@@ -1,3 +1,8 @@
 # Layout Grids
 
-I want to have an app to demo my `grid.less` reusable stylesheet.
+This is to test the `grid.less` stylesheet.
+
+## Getting Started
+
+1. `npm install`
+2. `npm start`

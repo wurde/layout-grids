@@ -9,7 +9,7 @@
     "build:watch": "less-watch-compiler server/assets/less public/css index.less"
   },
   "keywords": [],
-  "author": "",
+  "author": "Andy Bettisworth",
   "license": "MIT",
   "devDependencies": {
     "less-watch-compiler": "^1.13.0",
