@@ -1,6 +1,6 @@
 # Layout Grids
 
-This is to test the `grid.less` stylesheet.
+Scratch app for testing `grid.less`.
 
 ## Getting Started
 
