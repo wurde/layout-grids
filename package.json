@@ -1,0 +1,18 @@
+{
+  "name": "layout-grids",
+  "version": "1.0.0",
+  "description": "GridLayout",
+  "private": true,
+  "scripts": {
+    "start": "live-server public",
+    "build": "less-watch-compiler server/assets/less public/css index.less --run-once",
+    "build:watch": "less-watch-compiler server/assets/less public/css index.less"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "less-watch-compiler": "^1.13.0",
+    "live-server": "^1.2.1"
+  }
+}
